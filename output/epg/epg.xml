@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250425073707 +0800">
+<tv date="20250425112134 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -27996,6 +27996,15 @@
 	<programme channel="黑莓动画" start="20250425113400 +0800" stop="20250425123900 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250425123900 +0800" stop="20250425140300 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250425140300 +0800" stop="20250425155100 +0800">
+		<title lang="zh">迷宫的十字路口 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250425155100 +0800" stop="20250425171800 +0800">
+		<title lang="zh">葫芦兄弟电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28019,6 +28028,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250425104700 +0800" stop="20250425120500 +0800">
 		<title lang="zh">幽灵毒枭</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250425120500 +0800" stop="20250425133700 +0800">
+		<title lang="zh">地瓜味的冰激凌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250425133700 +0800" stop="20250425151700 +0800">
+		<title lang="zh">射雕英雄传之九阴白骨爪</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250425151700 +0800" stop="20250425165000 +0800">
+		<title lang="zh">反贪风暴之加密危机</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -28689,9 +28707,6 @@
 	<programme channel="龙岩综合" start="20250425231500 +0800" stop="20250425235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -28829,5 +28844,8 @@
 	</programme>
 	<channel id="甘肃经济">
 		<display-name lang="zh">甘肃经济</display-name>
+	</channel>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
 </tv>
